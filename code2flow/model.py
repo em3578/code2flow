@@ -2,7 +2,7 @@ import abc
 import os
 
 
-TRUNK_COLOR = '#966F33'
+TRUNK_COLOR = '#0000FF'
 LEAF_COLOR = '#6db33f'
 EDGE_COLORS = ["#000000", "#E69F00", "#56B4E9", "#009E73",
                "#F0E442", "#0072B2", "#D55E00", "#CC79A7"]
